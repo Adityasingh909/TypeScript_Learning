@@ -1,3 +1,7 @@
 npm init -y
 npm i -D typescript
 npx tsc --init
+
+
+compile code
+npx tsc  // dist file created
